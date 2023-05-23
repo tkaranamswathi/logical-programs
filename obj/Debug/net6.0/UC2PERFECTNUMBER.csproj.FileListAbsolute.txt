@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\bin\Debug\net6.0\UC2PERFECTNUMBER.exe
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\bin\Debug\net6.0\UC2PERFECTNUMBER.deps.json
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\bin\Debug\net6.0\UC2PERFECTNUMBER.runtimeconfig.json
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\bin\Debug\net6.0\UC2PERFECTNUMBER.dll
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\bin\Debug\net6.0\UC2PERFECTNUMBER.pdb
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\UC2PERFECTNUMBER.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\UC2PERFECTNUMBER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\UC2PERFECTNUMBER.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\UC2PERFECTNUMBER.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\UC2PERFECTNUMBER.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\UC2PERFECTNUMBER.dll
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\refint\UC2PERFECTNUMBER.dll
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\UC2PERFECTNUMBER.pdb
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\UC2PERFECTNUMBER.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC2PERFECTNUMBER\obj\Debug\net6.0\ref\UC2PERFECTNUMBER.dll
