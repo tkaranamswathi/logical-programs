@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\UC4REVERSEPROGRAM.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\UC4REVERSEPROGRAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\UC4REVERSEPROGRAM.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\UC4REVERSEPROGRAM.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\UC4REVERSEPROGRAM.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\bin\Debug\net6.0\UC4REVERSEPROGRAM.exe
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\bin\Debug\net6.0\UC4REVERSEPROGRAM.deps.json
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\bin\Debug\net6.0\UC4REVERSEPROGRAM.runtimeconfig.json
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\bin\Debug\net6.0\UC4REVERSEPROGRAM.dll
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\bin\Debug\net6.0\UC4REVERSEPROGRAM.pdb
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\UC4REVERSEPROGRAM.dll
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\refint\UC4REVERSEPROGRAM.dll
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\UC4REVERSEPROGRAM.pdb
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\UC4REVERSEPROGRAM.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC4REVERSEPROGRAM\obj\Debug\net6.0\ref\UC4REVERSEPROGRAM.dll
