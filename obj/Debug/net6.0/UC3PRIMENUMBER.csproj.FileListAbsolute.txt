@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC3PRIMENUMBER\bin\Debug\net6.0\UC3PRIMENUMBER.exe
+C:\Users\swath\source\repos\UC3PRIMENUMBER\bin\Debug\net6.0\UC3PRIMENUMBER.deps.json
+C:\Users\swath\source\repos\UC3PRIMENUMBER\bin\Debug\net6.0\UC3PRIMENUMBER.runtimeconfig.json
+C:\Users\swath\source\repos\UC3PRIMENUMBER\bin\Debug\net6.0\UC3PRIMENUMBER.dll
+C:\Users\swath\source\repos\UC3PRIMENUMBER\bin\Debug\net6.0\UC3PRIMENUMBER.pdb
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\UC3PRIMENUMBER.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\UC3PRIMENUMBER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\UC3PRIMENUMBER.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\UC3PRIMENUMBER.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\UC3PRIMENUMBER.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\UC3PRIMENUMBER.dll
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\refint\UC3PRIMENUMBER.dll
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\UC3PRIMENUMBER.pdb
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\UC3PRIMENUMBER.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC3PRIMENUMBER\obj\Debug\net6.0\ref\UC3PRIMENUMBER.dll
