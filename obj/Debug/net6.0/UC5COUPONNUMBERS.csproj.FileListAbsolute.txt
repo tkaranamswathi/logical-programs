@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\bin\Debug\net6.0\UC5COUPONNUMBERS.exe
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\bin\Debug\net6.0\UC5COUPONNUMBERS.deps.json
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\bin\Debug\net6.0\UC5COUPONNUMBERS.runtimeconfig.json
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\bin\Debug\net6.0\UC5COUPONNUMBERS.dll
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\bin\Debug\net6.0\UC5COUPONNUMBERS.pdb
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\UC5COUPONNUMBERS.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\UC5COUPONNUMBERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\UC5COUPONNUMBERS.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\UC5COUPONNUMBERS.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\UC5COUPONNUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\UC5COUPONNUMBERS.dll
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\refint\UC5COUPONNUMBERS.dll
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\UC5COUPONNUMBERS.pdb
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\UC5COUPONNUMBERS.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC5COUPONNUMBERS\obj\Debug\net6.0\ref\UC5COUPONNUMBERS.dll
