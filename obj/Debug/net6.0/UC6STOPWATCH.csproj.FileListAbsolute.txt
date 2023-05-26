@@ -1,0 +1,15 @@
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\UC6STOPWATCH.csproj.AssemblyReference.cache
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\UC6STOPWATCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\UC6STOPWATCH.AssemblyInfoInputs.cache
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\UC6STOPWATCH.AssemblyInfo.cs
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\UC6STOPWATCH.csproj.CoreCompileInputs.cache
+C:\Users\swath\source\repos\UC6STOPWATCH\bin\Debug\net6.0\UC6STOPWATCH.exe
+C:\Users\swath\source\repos\UC6STOPWATCH\bin\Debug\net6.0\UC6STOPWATCH.deps.json
+C:\Users\swath\source\repos\UC6STOPWATCH\bin\Debug\net6.0\UC6STOPWATCH.runtimeconfig.json
+C:\Users\swath\source\repos\UC6STOPWATCH\bin\Debug\net6.0\UC6STOPWATCH.dll
+C:\Users\swath\source\repos\UC6STOPWATCH\bin\Debug\net6.0\UC6STOPWATCH.pdb
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\UC6STOPWATCH.dll
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\refint\UC6STOPWATCH.dll
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\UC6STOPWATCH.pdb
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\UC6STOPWATCH.genruntimeconfig.cache
+C:\Users\swath\source\repos\UC6STOPWATCH\obj\Debug\net6.0\ref\UC6STOPWATCH.dll
